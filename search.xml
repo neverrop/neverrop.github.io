@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Hello World]]></title>
+    <title></title>
     <url>%2F2017%2F05%2F15%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <content type="text"><![CDATA[​ Welcome to my blog. It took me almost the whole weekends to build it. Hope you guys like it. In the future, hopefully I will blog some of my recent studies or researches here, mostly about machine learning, computer vision and algorithms using python, or some articles. Feel free to follow me. Lol. (http://opznxcs8e.bkt.clouddn.com/UNADJUSTEDNONRAW_thumb_78.jpg)]]></content>
   </entry>
 </search>
